@@ -1,3 +1,6 @@
 Content Filtering Project 
 
 We'll be downloading our dataset from the MovieLens website (http://files.grouplens.org/datasets/movielens/ml-100k/u.item)
+
+Problem ?
+To cluster the movies in the above data set by genre and make Recommendations after clustering - Hierarchial clustering used 
