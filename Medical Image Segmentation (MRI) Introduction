@@ -1,0 +1,4 @@
+Grey scale Image Segmentation
+
+Segment the MRI Brain image of a Healthy patient using K - Mean clustering and divide the MRI image of the healthy patient
+into different clusters which in turn can help predict tumours in a sick patient
